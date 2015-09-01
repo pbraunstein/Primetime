@@ -1,7 +1,7 @@
-Primetime
-=========
+#Primetime
+##### Philip Braunstein (pbraunstein12@gmail.com)
 
-First iPhone App
+My first iPhone App
 
 Primetime looks at the time and if it is a prime number, it says, "It's Prime Time" 
 Otherwise, it says "Factorable :(" and looks sad.
